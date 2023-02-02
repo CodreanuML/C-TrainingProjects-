@@ -1,0 +1,17 @@
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\bin\Debug\net6.0-windows\Play_A_Game.exe
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\bin\Debug\net6.0-windows\Play_A_Game.deps.json
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\bin\Debug\net6.0-windows\Play_A_Game.runtimeconfig.json
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\bin\Debug\net6.0-windows\Play_A_Game.dll
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\bin\Debug\net6.0-windows\Play_A_Game.pdb
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.csproj.AssemblyReference.cache
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.Form1.resources
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.csproj.GenerateResource.cache
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.AssemblyInfoInputs.cache
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.AssemblyInfo.cs
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.csproj.CoreCompileInputs.cache
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.dll
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\refint\Play_A_Game.dll
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.pdb
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\Play_A_Game.genruntimeconfig.cache
+C:\Users\mcodrea2\Desktop\try C#\Play_A_Game\obj\Debug\net6.0-windows\ref\Play_A_Game.dll
